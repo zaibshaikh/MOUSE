@@ -1,2 +1,2 @@
 # MOUSE
-All of Zaib's Script - Just for your Mouse
+All of Zaib's script - Just for your mouse
